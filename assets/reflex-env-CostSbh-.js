@@ -1,0 +1,1 @@
+const e=`http://localhost:8000/ping`,t=`ws://localhost:8000/_event`,n=`http://localhost:8000/_upload`,r=`http://localhost:8000/auth-codespace`,i=`http://localhost:8000/_health`,a=`http://localhost:8000/_all_routes`,o=!1;var s={PING:e,EVENT:t,UPLOAD:n,AUTH_CODESPACE:r,HEALTH:i,ALL_ROUTES:a,TEST_MODE:o};export{s as b};
